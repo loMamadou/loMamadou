@@ -1,7 +1,7 @@
 <h1 style="text-align: center">Salut👋, je suis Mamadou Lo</h1>
   <h3 style="text-align: center">Un apprenti développeur passionné de l'informatique</h3>
 
-  <p style="text-align: center">📫 Comment me contacter ? <a href="mailto:mamadou.lo@lmdsio.com">mamadou.lo@lmdsio.com</a></p>
+  <p style="text-align: center">📫 Contacter moi sur <a href="mailto:mamadou.lo@lmdsio.com">mamadou.lo@lmdsio.com</a></p>
 
   <h3>Connectez-vous avec moi :</h3>
   <p></p>
