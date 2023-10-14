@@ -6,7 +6,11 @@
  <p style="text-align: center"> 🌱J'appends actuellement différents langages tels que PHP (avec Laravel), Java et C# </p>
 
   <p style="text-align: center">📫 Vous pouvez me contacter sur <a href="mailto:mamadou.lo@lmdsio.com">mamadou.lo@lmdsio.com</a></p>
-  
+  <p align="left">
+<a href="https://linkedin.com/in/mamadou-lo-560059296" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mamadou-lo-560059296" height="30" width="40" />
+</a>
+
 
   <h3>Connectez-vous avec moi :</h3>
   <p></p>
